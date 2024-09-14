@@ -48,6 +48,7 @@ plt.show()
 ```
 ### Output:
 
-https://github.com/aswethaashok/WDM_EXP3/blob/main/README.md
+![image](https://github.com/user-attachments/assets/f1d5f862-3e78-4acd-b6ef-6bb306ae822c)
+
 
 ### Result:
