@@ -25,6 +25,9 @@
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/67aadbac-86b3-412b-95a5-ae1271452693)
+
+
 ### Visualization:
 ```python
 # Create a list to store counts of visitors in each age group
@@ -45,5 +48,6 @@ plt.show()
 ```
 ### Output:
 
+https://github.com/aswethaashok/WDM_EXP3/blob/main/README.md
 
 ### Result:
